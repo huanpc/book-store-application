@@ -1,0 +1,9 @@
+Mã Hóa Đơn: MH0000000003
+ 2014/12/16  04:28 PM 
+Nhân Viên: nv007Mã NV: tân
+STT |   Tên Sản Phẩm    |   Mã |   Giá |   Số Lượng |   Tổng tiền |   Giảm giá |   Thành Tiền |   
+1   |Vật Lý Đại Cương 3   |VL1   |40000   |2          |80000      |800      |79200
+Tổng: 79,200
+Giảm Sản Phẩm: 800
+Giảm VIP: 0
+Thanh toán: 79,200

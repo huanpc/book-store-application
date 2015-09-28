@@ -1,0 +1,9 @@
+Mã Hóa Đơn: MH0000000002
+ 2014/12/16  12:54 AM 
+Nhân Viên: PHCMã NV: NV01
+STT |   Tên Sản Phẩm    |   Mã |   Giá |   Số Lượng |   Tổng tiền |   Giảm giá |   Thành Tiền |   
+1   |Flute cover 123   |FL1   |90000   |5          |450000      |9000      |441000
+Tổng: 441,000
+Giảm Sản Phẩm: 9,000
+Giảm VIP: 0
+Thanh toán: 423,360
